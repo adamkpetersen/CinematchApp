@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-snapshot-testing",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-snapshot-testing.git",
+      "state" : {
+        "revision" : "f29e2014f6230cf7d5138fc899da51c7f513d467",
+        "version" : "1.10.0"
+      }
+    },
+    {
+      "identity" : "swiftui-cardstackview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bruxless/SwiftUI-CardStackView.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "4de95fbe492107cf1d733bb84737a8d38cb49ca9"
+      }
+    }
+  ],
+  "version" : 2
+}

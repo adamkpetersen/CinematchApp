@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "51DB7222-2FFB-431B-8963-2D333DB7F598"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C46047B-CB90-4147-83AE-EEAC92E88167"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/Resources/PosterData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "loadPosters(movies:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "643EEDD7-50D8-4726-93E6-C2A67AB51C1A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/Resources/PosterData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "loadPosters(movies:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0141A700-9F78-423D-BF9D-C4F48BD85B35"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/Resources/PosterData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "loadPosters(movies:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "636B8A81-FD0A-434D-91D4-5D5E9725510D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/RecommendationStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "computeRecommendations(basedOn:likedMovies:dislikedMovies:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9947EE05-55C5-4FC7-83AE-FD3415102376"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/DiscoverView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC492CEE-9463-48BA-8EC5-C3D0F97E15A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/StatsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B123E4BE-E60B-4506-BA8B-249332CAEAF1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/StatsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F918C01B-37D5-40DD-A9FC-5F411EE1627F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/RecommendationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "trainLinearRegressor(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77D66415-DE8A-477E-B99E-9C9803A1ABD5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/RecommendationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "prediction(for:allMovies:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "77D66415-DE8A-477E-B99E-9C9803A1ABD5 - 33263f97a0a8f172"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cinematch.RecommendationService.prediction(for: Swift.Array&lt;Cinematch.Movie&gt;, allMovies: Swift.Array&lt;Cinematch.Movie&gt;) async throws -&gt; Swift.Array&lt;Cinematch.Movie&gt;"
+                  moduleName = "Cinematch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adampetersen/Cinematch/Cinematch/RecommendationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "77D66415-DE8A-477E-B99E-9C9803A1ABD5 - ad6c47ffcd2a22b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Cinematch.RecommendationService.prediction(for: Swift.Array&lt;Cinematch.Movie&gt;, allMovies: Swift.Array&lt;Cinematch.Movie&gt;) async throws -&gt; Swift.Array&lt;Cinematch.Movie&gt;"
+                  moduleName = "Cinematch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adampetersen/Cinematch/Cinematch/RecommendationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BFDCF43-07F9-4F0D-A6AA-07AA1019D1EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/RecommendationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "prediction(for:allMovies:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "979BEF21-29E1-441C-A503-CBEF581E3B28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/RecommendationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "prediction(for:allMovies:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF719111-922A-4DFA-B9CB-F57E45DD471A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/RecommendationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "prediction(for:allMovies:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF719111-922A-4DFA-B9CB-F57E45DD471A - ad6c47ffcd2a235d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Cinematch.RecommendationService.prediction(for: Swift.Array&lt;Cinematch.Movie&gt;, allMovies: Swift.Array&lt;Cinematch.Movie&gt;) async throws -&gt; Swift.Array&lt;Cinematch.Movie&gt;"
+                  moduleName = "Cinematch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adampetersen/Cinematch/Cinematch/RecommendationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "CF719111-922A-4DFA-B9CB-F57E45DD471A - d58997459cdd5b34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Cinematch.RecommendationService.prediction(for: Swift.Array&lt;Cinematch.Movie&gt;, allMovies: Swift.Array&lt;Cinematch.Movie&gt;) async throws -&gt; Swift.Array&lt;Cinematch.Movie&gt;"
+                  moduleName = "Cinematch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adampetersen/Cinematch/Cinematch/RecommendationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "CF719111-922A-4DFA-B9CB-F57E45DD471A - 2af61682520555e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Cinematch.RecommendationService.prediction(for: Swift.Array&lt;Cinematch.Movie&gt;, allMovies: Swift.Array&lt;Cinematch.Movie&gt;) async throws -&gt; Swift.Array&lt;Cinematch.Movie&gt;"
+                  moduleName = "Cinematch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adampetersen/Cinematch/Cinematch/RecommendationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F422577-293E-44E6-8BF8-575D936EC4FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/RecommendationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "prediction(for:allMovies:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D76A9950-3028-4487-A6C5-C7630CAAE150"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/RecommendationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "prediction(for:allMovies:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "254156F4-A0F3-43B5-95AC-22F5D5EAF21E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/RecommendationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "prediction(for:allMovies:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92B9C964-AB3C-4EC5-A21F-937F3F93C515"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/RecommendationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "maxValues(for:allMovies:classifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A410D70-2E92-40CB-8CE8-5F160D2B2A25"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/RecommendationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "maxValues(for:allMovies:classifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5953A14C-44CC-4E93-962B-8CE299453DA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/RecommendationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "maxValues(for:allMovies:classifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36AD3A2F-EB7A-47A5-A45B-AE99DA2C059A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/RecommendationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "maxValues(for:allMovies:classifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5C3E367-0617-4D28-A2D0-DA568AC3D3A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/RecommendationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "maxValues(for:allMovies:classifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C921BEE5-445D-4B56-93A2-84743FA0A891"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/RecommendationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "maxValues(for:allMovies:classifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A9F9896-AA4A-439B-9190-3D59782900AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/GenreMashLikeabilitySheet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "countMoviesByLikeability(movies:recommendations:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59DF152B-A432-4D2A-ACB0-90B453EAF1E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/Stats Views/TopMovieSuggestions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "59DF152B-A432-4D2A-ACB0-90B453EAF1E7 - 4a76d681b85b3de4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cinematch.TopMovieSuggestions.body.getter : some"
+                  moduleName = "Cinematch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adampetersen/Cinematch/Cinematch/Stats%20Views/TopMovieSuggestions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1212">
+               </Location>
+               <Location
+                  uuid = "59DF152B-A432-4D2A-ACB0-90B453EAF1E7 - 7aea1e5ac4b92b36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in Cinematch.TopMovieSuggestions.body.getter : some"
+                  moduleName = "Cinematch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adampetersen/Cinematch/Cinematch/Stats%20Views/TopMovieSuggestions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C023827A-E6DD-4110-B7DF-4EC0491E9A78"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/Stats Views/TopMovieSuggestions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "TopMovieSuggestions"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "C023827A-E6DD-4110-B7DF-4EC0491E9A78 - fb1702d6991de841"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Cinematch.TopMovieSuggestions.topMovies : Swift.Array&lt;Cinematch.Movie&gt;"
+                  moduleName = "Cinematch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adampetersen/Cinematch/Cinematch/Stats%20Views/TopMovieSuggestions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C023827A-E6DD-4110-B7DF-4EC0491E9A78 - 1385fd5a024db799"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cinematch.TopMovieSuggestions.topMovies.getter : Swift.Array&lt;Cinematch.Movie&gt;"
+                  moduleName = "Cinematch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adampetersen/Cinematch/Cinematch/Stats%20Views/TopMovieSuggestions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "C023827A-E6DD-4110-B7DF-4EC0491E9A78 - 9ebc59161ec0e785"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cinematch.TopMovieSuggestions.topMovies.setter : Swift.Array&lt;Cinematch.Movie&gt;"
+                  moduleName = "Cinematch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adampetersen/Cinematch/Cinematch/Stats%20Views/TopMovieSuggestions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "C023827A-E6DD-4110-B7DF-4EC0491E9A78 - 1a0ff43377e5fb94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cinematch.TopMovieSuggestions.topMovies.modify : Swift.Array&lt;Cinematch.Movie&gt;"
+                  moduleName = "Cinematch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adampetersen/Cinematch/Cinematch/Stats%20Views/TopMovieSuggestions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "C023827A-E6DD-4110-B7DF-4EC0491E9A78 - 408c0d154fc8394d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cinematch.TopMovieSuggestions.topMovies.modify : Swift.Array&lt;Cinematch.Movie&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Cinematch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adampetersen/Cinematch/Cinematch/Stats%20Views/TopMovieSuggestions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "C023827A-E6DD-4110-B7DF-4EC0491E9A78 - d6607ef1076d2b5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cinematch.TopMovieSuggestions.$topMovies.getter : SwiftUI.Binding&lt;Swift.Array&lt;Cinematch.Movie&gt;&gt;"
+                  moduleName = "Cinematch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adampetersen/Cinematch/Cinematch/Stats%20Views/TopMovieSuggestions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1990D3C2-2A04-431B-96BF-7A6CFBF62711"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/Discover Views/SwipeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5155E788-B69C-4EF5-8126-AD6E6C0D7B43"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/View Models/MovieMatchModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "FilterMovie(movie:genreMash:allMovies:allGenres:direction:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5155E788-B69C-4EF5-8126-AD6E6C0D7B43 - 6d94a5f6dbbb9863"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Cinematch.MovieMatchModel.FilterMovie(movie: Cinematch.Movie, genreMash: Swift.Array&lt;Cinematch.Genre&gt;, allMovies: Swift.Array&lt;Cinematch.Movie&gt;, direction: CardStack.LeftRight) async -&gt; ()"
+                  moduleName = "Cinematch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adampetersen/Cinematch/Cinematch/View%20Models/MovieMatchModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "4080">
+               </Location>
+               <Location
+                  uuid = "5155E788-B69C-4EF5-8126-AD6E6C0D7B43 - 223f0d25981fc4ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #7 @Swift.MainActor @Sendable () -&gt; () in Cinematch.MovieMatchModel.FilterMovie(movie: Cinematch.Movie, genreMash: Swift.Array&lt;Cinematch.Genre&gt;, allMovies: Swift.Array&lt;Cinematch.Movie&gt;, direction: CardStack.LeftRight) async -&gt; ()"
+                  moduleName = "Cinematch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adampetersen/Cinematch/Cinematch/View%20Models/MovieMatchModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "585F7ADF-C156-49C6-BA64-BE02EEC3F4B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/Discover Views/Alt Swipe View/AltMovieCard.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6DE7518-1B35-4D7C-B36C-9C692FBC77F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/Discover Views/Alt Swipe View/AltMovieCard.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "853A5656-AFAB-41AE-B91F-53348651A6F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/Chart Views/GenreMash Chart Views/GenreMashLikeabilitySheet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3F3D523-F2A4-4F68-9D6D-74BC001031A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cinematch/Helpers/RecommendationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "trainLinearRegressor(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
